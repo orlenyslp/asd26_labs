@@ -1,0 +1,5 @@
+# Gilded Rose Python Project — Test Dependencies
+# Install with:  pip install -r requirements.txt
+
+pytest>=7.0          # Test runner
+pytest-cov>=4.0      # Coverage plugin
